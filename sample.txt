@@ -1,0 +1,1 @@
+This is a sample file. The file and its contents are created on a remote system after cloning the repository to demonstrate various git commands
